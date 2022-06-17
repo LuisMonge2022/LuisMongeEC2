@@ -1,0 +1,2 @@
+insert into usuario(usuario,contrasenia,rol) values('angelo','$2y$10$/g1VtY/5zKLjwe8E48M91OOi57GspPoh/unQ6XnzUforHLtBfL2zC','ROLE_ADMIN')
+insert into usuario(usuario,contrasenia,rol) values('maria','$2y$10$/g1VtY/5zKLjwe8E48M91OOi57GspPoh/unQ6XnzUforHLtBfL2zC','ROLE_USER')
